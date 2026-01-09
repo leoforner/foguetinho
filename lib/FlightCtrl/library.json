@@ -1,0 +1,7 @@
+{
+    "name": "FlightCtrl",
+    "version": "1.0.0",
+    "build": {
+        "libArchive": false
+    }
+}
